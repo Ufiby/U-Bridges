@@ -17,7 +17,7 @@
 	00 
 	00
 	
-    2 * 339 08 08 "UFI\01" "U&Bridges 1.5" 00 "ÞBridges set replacement with full new graphics for rail, road, monorail and maglev:\0D\UE090U&Bridges\0D\0D\UE098It is recommended to connect with newgrf road and rail sets:\0D\UE090U&RaTT \UE098and \UE090U&ReRMM 2 \0D\0D\UE098Requires version \UE0891.10.0 \UE098or later\0D\0D©2020 Yuri Gashin\0DDraw or coded by \UE095Ufiby\0D\UE098License: \UE089CC BY-NC-SA 3.0\0D" 00 
+    2 * 339 08 08 "UFI\01" "U&Bridges 1.6" 00 "ÞBridges set replacement with full new graphics for rail, road, monorail and maglev:\0D\UE090U&Bridges\0D\0D\UE098It is recommended to connect with newgrf road and rail sets:\0D\UE090U&RaTT \UE098and \UE090U&ReRMM 2 \0D\0D\UE098Requires version \UE0891.10.0 \UE098or later\0D\0D©2020 Yuri Gashin\0DDraw or coded by \UE095Ufiby\0D\UE098License: \UE089CC BY-NC-SA 3.0\0D" 00 
 
     3 * 5 0D 7D \D= 9D 00 
     4 * 9 0D 7E \D- 7D FF \dx00000001 
