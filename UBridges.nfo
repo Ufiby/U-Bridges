@@ -9,7 +9,7 @@
 
 	1 * 113 14 "C" "INFO"
 	"T" "URL_" 7F "https://www.tt-forums.net/viewtopic.php?f=67&t=84591" 00  
-	"B" "VRSN" \w4 \d100 
+	"B" "VRSN" \w4 \d120 
 	"B" "MINV" \w4 \d60
 	"B" "NPAR" \w1 00 
 	"B" "PALS" \w1 "D" 
@@ -17,7 +17,7 @@
 	00 
 	00
 	
-    2 * 339 08 08 "UFI\01" "U&Bridges 1.5" 00 "ÞBridges set replacement with full new graphics for rail, road, monorail and maglev:\0D\UE090U&Bridges\0D\0D\UE098It is recommended to connect with newgrf road and rail sets:\0D\UE090U&RaTT \UE098and \UE090U&ReRMM 2 \0D\0D\UE098Requires version \UE0891.10.0 \UE098or later\0D\0D©2020 Yuri Gashin\0DDraw or coded by \UE095Ufiby™\0D\UE098License: \UE089CC BY-NC-SA 3.0\0D" 00 
+    2 * 339 08 08 "UFI\01" "U&Bridges 1.5" 00 "ÞBridges set replacement with full new graphics for rail, road, monorail and maglev:\0D\UE090U&Bridges\0D\0D\UE098It is recommended to connect with newgrf road and rail sets:\0D\UE090U&RaTT \UE098and \UE090U&ReRMM 2 \0D\0D\UE098Requires version \UE0891.10.0 \UE098or later\0D\0D©2020 Yuri Gashin\0DDraw or coded by \UE095Ufiby\0D\UE098License: \UE089CC BY-NC-SA 3.0\0D" 00 
 
     3 * 5 0D 7D \D= 9D 00 
     4 * 9 0D 7E \D- 7D FF \dx00000001 
@@ -4199,9 +4199,9 @@
 			 09 02            				//min length
 			 0A FF            				//max length
 			 0B \b250          				//cost factor
-			 0C \w512						//Speed limit
+			 0C \w0						//Speed limit
 			 0E 01            				//flags (set the value to 01 to disable far pillar)
-			 0F \d2020      				//long format intro date
+			 0F \d2000      				//long format intro date
 			 10 24 DC         				//purchase text
 			 11 25 DC         				//RAIL bridge info window
 			 12 26 DC         				//ROAD bridge info window
